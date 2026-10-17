@@ -1,0 +1,5 @@
+streamlit
+garminconnect
+google-genai
+pandas
+plotly
